@@ -1,7 +1,11 @@
 {
   "firstLayout": "",
   "gdVersion": {
+<<<<<<< HEAD
     "build": 238,
+=======
+    "build": 237,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -358,6 +362,7 @@
         "name": "assets\\background.png",
         "smoothed": true,
         "userAdded": false
+<<<<<<< HEAD
       },
       {
         "file": "assets/NewSprite.png",
@@ -374,6 +379,8 @@
         "name": "assets\\assets_Hulls_Color_A_Hull_01.png",
         "smoothed": true,
         "userAdded": false
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
       }
     ],
     "resourceFolders": []
@@ -399,8 +406,13 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
+<<<<<<< HEAD
       "mangledName": "Level_321",
       "name": "Level 1",
+=======
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
       "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -446,11 +458,19 @@
           "height": 64,
           "keepRatio": true,
           "layer": "",
+<<<<<<< HEAD
           "name": "TanqueEsquerda",
           "persistentUuid": "554d1732-b489-40de-b0ab-c9e05dead857",
           "width": 64,
           "x": 32,
           "y": 96,
+=======
+          "name": "Tanque",
+          "persistentUuid": "554d1732-b489-40de-b0ab-c9e05dead857",
+          "width": 64,
+          "x": 96,
+          "y": 288,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -482,8 +502,13 @@
           "name": "Soldado",
           "persistentUuid": "2acdd7fa-cfdc-4e41-9aae-d3a912a08887",
           "width": 64,
+<<<<<<< HEAD
           "x": 1056,
           "y": 352,
+=======
+          "x": 672,
+          "y": 288,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -491,6 +516,41 @@
         },
         {
           "angle": 0,
+<<<<<<< HEAD
+=======
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewText",
+          "persistentUuid": "d97e90a6-e234-4d3e-a7ed-93baa3ec02b4",
+          "width": 0,
+          "x": 960,
+          "y": 425,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewText2",
+          "persistentUuid": "cef9e5d1-6ef9-4582-b5f9-daf20f6d6e63",
+          "width": 0,
+          "x": 256,
+          "y": 448,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "customSize": true,
           "depth": 12,
           "height": 24,
@@ -498,9 +558,15 @@
           "layer": "",
           "name": "Healling_bar",
           "persistentUuid": "34939fe7-8716-4173-8e1e-e536a515e198",
+<<<<<<< HEAD
           "width": 80,
           "x": 636,
           "y": 682,
+=======
+          "width": 131,
+          "x": 61,
+          "y": 616,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -510,18 +576,27 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
+<<<<<<< HEAD
           "height": 719,
+=======
+          "height": 716,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "keepRatio": true,
           "layer": "HUD",
           "name": "background",
           "persistentUuid": "9290c14a-416b-40ba-88b8-e414643a86a9",
           "width": 1280,
+<<<<<<< HEAD
           "x": 2,
+=======
+          "x": 0,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "y": 0,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -760,6 +835,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
         }
       ],
       "objects": [
@@ -779,6 +856,7 @@
           "effects": [],
           "behaviors": [
             {
+<<<<<<< HEAD
               "name": "Health",
               "type": "Health::Health",
               "Health": 0,
@@ -808,6 +886,8 @@
             },
             {
               "isFolded": true,
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 700,
@@ -1082,6 +1162,7 @@
         {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
+<<<<<<< HEAD
           "name": "TanqueEsquerda",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -1092,12 +1173,22 @@
               "value": 0
             }
           ],
+=======
+          "name": "Tanque",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "effects": [],
           "behaviors": [
             {
               "name": "FireBullet",
               "type": "FireBullet::FireBullet",
+<<<<<<< HEAD
               "FireCooldown": 0,
+=======
+              "FireCooldown": 0.2,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               "HasJustFired": false,
               "RotateBullet": true,
               "FiringArc": 45,
@@ -1106,7 +1197,11 @@
               "BulletSpeedVariance": 0,
               "AmmoQuantity": 0,
               "ShotsPerReload": 0,
+<<<<<<< HEAD
               "ReloadDuration": 0,
+=======
+              "ReloadDuration": 1,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               "MaxAmmo": 0,
               "ShotsBeforeNextReload": 0,
               "TotalShotsFired": 0,
@@ -1120,7 +1215,11 @@
               "AutomaticReloading": true,
               "OverheatDuration": 0,
               "LinearCoolingRate": 0.1,
+<<<<<<< HEAD
               "ExponentialCoolingRate": 0,
+=======
+              "ExponentialCoolingRate": 0.3,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               "BulletLayer": "",
               "RandomizedAngle": 0
             },
@@ -1668,6 +1767,93 @@
           ]
         },
         {
+<<<<<<< HEAD
+=======
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "assetStoreId": "d68a7f09fb9a6a3b183e43e1132b13d6ef13a5cc0988dd148dd22819876a463c",
           "name": "Healling_bar",
           "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
@@ -1677,13 +1863,21 @@
           "behaviors": [],
           "content": {
             "InitialValue": 0,
+<<<<<<< HEAD
             "MaxValue": 5,
+=======
+            "MaxValue": 10,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
             "BarTopPadding": 8,
             "BarRightPadding": 10,
             "BarBottomPadding": 8,
             "BarLeftPadding": 10,
             "PreviousHighValueDuration": 0,
+<<<<<<< HEAD
             "ShowLabel": false,
+=======
+            "ShowLabel": true,
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
             "EasingDuration": 0.1
           }
         },
@@ -1746,6 +1940,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "adaptCollisionMaskAutomatically": true,
@@ -1914,6 +2109,8 @@
               ]
             }
           ]
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
         }
       ],
       "objectsFolderStructure": {
@@ -1923,10 +2120,14 @@
             "objectName": "Lourie"
           },
           {
+<<<<<<< HEAD
             "objectName": "TanqueEsquerda"
           },
           {
             "objectName": "TanqueDireita"
+=======
+            "objectName": "Tanque"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           },
           {
             "objectName": "Disparo_Tanque_Effect"
@@ -1938,13 +2139,25 @@
             "objectName": "Soldado"
           },
           {
+<<<<<<< HEAD
+=======
+            "objectName": "NewText"
+          },
+          {
+            "objectName": "NewText2"
+          },
+          {
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
             "objectName": "Healling_bar"
           },
           {
             "objectName": "background"
+<<<<<<< HEAD
           },
           {
             "objectName": "LinhaDeChegada"
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           }
         ]
       },
@@ -2151,6 +2364,7 @@
             "textG": 0,
             "textR": 0
           },
+<<<<<<< HEAD
           "comment": "Disparo Tanque Esquerda"
         },
         {
@@ -2271,6 +2485,96 @@
                     "0"
                   ]
                 }
+=======
+          "comment": "Disparo Tanque"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"k\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "Tanque",
+                "FireBullet",
+                "Tanque.PointX(\"Bullet\")",
+                "Tanque.PointY(\"Bullet\")",
+                "Disparo_Tanque_Bullet",
+                "0",
+                "300",
+                "300"
+              ]
+            },
+            {
+              "type": {
+                "value": "RotateTowardPosition"
+              },
+              "parameters": [
+                "Disparo_Tanque_Bullet",
+                "Disparo_Tanque_Bullet.X()",
+                "Disparo_Tanque_Bullet.Y()",
+                "0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
+              },
+              "parameters": [
+                "Tanque",
+                "ShakeObject_PositionAngle",
+                "0.2",
+                "15",
+                "15",
+                "15",
+                "0.2",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Disparo_Tanque_Effect",
+                "Tanque.PointX(\"Bullet\")",
+                "Tanque.PointY(\"Bullet\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DeleteEffect\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Disparo_Tanque_Bullet",
+                "=",
+                "90"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             }
           ]
@@ -2286,7 +2590,11 @@
                 "",
                 "\"DeleteEffect\"",
                 ">",
+<<<<<<< HEAD
                 "0.3"
+=======
+                "0.5"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             }
           ],
@@ -2311,7 +2619,11 @@
                 "value": "Distance"
               },
               "parameters": [
+<<<<<<< HEAD
                 "TanqueEsquerda",
+=======
+                "Tanque",
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
                 "Disparo_Tanque_Bullet",
                 "600",
                 ""
@@ -2340,6 +2652,7 @@
             "textG": 0,
             "textR": 0
           },
+<<<<<<< HEAD
           "comment": "Disparo Tanque Direita"
         },
         {
@@ -2501,6 +2814,8 @@
             "textG": 0,
             "textR": 0
           },
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "comment": "Curar"
         },
         {
@@ -2554,8 +2869,13 @@
               "parameters": [
                 "Lourie",
                 "TempoDeCura",
+<<<<<<< HEAD
                 "+",
                 "TimeDelta()"
+=======
+                "=",
+                "TimeFromStart()"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             },
             {
@@ -2568,6 +2888,7 @@
                 "Lourie.TempoDeCura",
                 ""
               ]
+<<<<<<< HEAD
             },
             {
               "type": {
@@ -2577,6 +2898,8 @@
                 "",
                 "\"Curando\""
               ]
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
             }
           ]
         },
@@ -2592,6 +2915,7 @@
                 {
                   "type": {
                     "inverted": true,
+<<<<<<< HEAD
                     "value": "KeyFromTextPressed"
                   },
                   "parameters": [
@@ -2602,6 +2926,8 @@
                 {
                   "type": {
                     "inverted": true,
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
                     "value": "CollisionNP"
                   },
                   "parameters": [
@@ -2611,6 +2937,19 @@
                     "",
                     ""
                   ]
+<<<<<<< HEAD
+=======
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"e\""
+                  ]
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
                 }
               ]
             }
@@ -2634,7 +2973,11 @@
                 "Lourie",
                 "TempoDeCura",
                 "=",
+<<<<<<< HEAD
                 "0"
+=======
+                "TimeScale()"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             },
             {
@@ -2655,6 +2998,7 @@
           "conditions": [
             {
               "type": {
+<<<<<<< HEAD
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -2700,6 +3044,33 @@
                     "1"
                   ]
                 }
+=======
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "Lourie.Variable(TempoDeCura)",
+                ">=",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Curando",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"e\""
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             }
           ],
@@ -2727,6 +3098,7 @@
             },
             {
               "type": {
+<<<<<<< HEAD
                 "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
               },
               "parameters": [
@@ -2738,6 +3110,8 @@
             },
             {
               "type": {
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -2751,6 +3125,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+<<<<<<< HEAD
           "conditions": [
             {
               "type": {
@@ -2803,10 +3178,13 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "conditions": [],
           "actions": [
             {
               "type": {
+<<<<<<< HEAD
                 "value": "SetNumberObjectVariable"
               },
               "parameters": [
@@ -2814,10 +3192,20 @@
                 "DisparoEsquerda",
                 "+",
                 "TimeDelta()"
+=======
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "NewText",
+                "Text",
+                "=",
+                "Lourie.TempoDeCura"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             },
             {
               "type": {
+<<<<<<< HEAD
                 "value": "SetNumberObjectVariable"
               },
               "parameters": [
@@ -2825,6 +3213,15 @@
                 "DisparoDireita",
                 "+",
                 "TimeDelta()"
+=======
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "NewText2",
+                "Text",
+                "=",
+                "Curando"
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
               ]
             }
           ]
@@ -2947,10 +3344,13 @@
           "type": "FlippableCapability::FlippableBehavior"
         },
         {
+<<<<<<< HEAD
           "name": "Health",
           "type": "Health::Health"
         },
         {
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
         },
@@ -2967,10 +3367,18 @@
           "type": "ShakeObject::ShakeObject_PositionAngle"
         },
         {
+<<<<<<< HEAD
+=======
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
+<<<<<<< HEAD
     },
     {
       "b": 209,
@@ -3331,6 +3739,8 @@
         }
       ],
       "behaviorsSharedData": []
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
     }
   ],
   "externalEvents": [],
@@ -16817,6 +17227,7 @@
           ]
         }
       ]
+<<<<<<< HEAD
     },
     {
       "author": "@4ian",
@@ -21638,6 +22049,8 @@
         }
       ],
       "eventsBasedObjects": []
+=======
+>>>>>>> faef3d29dc400ab5993a7944ac10fb9fa0317f34
     }
   ],
   "externalLayouts": []
